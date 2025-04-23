@@ -53,3 +53,6 @@ logs
 
 # Yarn Integrity file
 .yarn-integrity
+
+# nohup 输出文件
+nohup.out
