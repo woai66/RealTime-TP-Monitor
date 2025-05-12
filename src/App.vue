@@ -75,8 +75,8 @@ export default {
         password: '', // 如果需要
       },
       topics: {
-        temperature: 'esp32/temperature11', // 更新为新的topic
-        pressure: 'esp32/pressure11'        // 更新为新的topic
+        temperature: 'esp32/temperature111', // 更新为新的topic
+        pressure: 'esp32/pressure111'        // 更新为新的topic
       }
     }
 
